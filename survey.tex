@@ -53,7 +53,25 @@
 
 
 \begin{document}
-\title{Storytelling and Visualization: A Survey}
+
+\title[Storytelling and Visualization: A Survey]%
+      {Storytelling and Visualization: A Survey}
+
+% for anonymous conference submission please enter your SUBMISSION ID
+% instead of the author's name (and leave the affiliation blank) !!
+\author[C.Tong \& R.Roberts \& R.S.Laramee]
+       {Chao Tong, Richard Roberts
+        and Robert S. Laramee$^{1}$
+%        S. Spencer$^2$\thanks{Chairman Siggraph Publications Board}
+        \\
+% For Computer Graphics Forum: Please use the abbreviation of your first name.
+        $^1$Swansea University
+  %       $^2$Institut f{\"u}r ComputerGraphik \& Wissensvisualisierung, TU Graz, Austria
+%        $^2$ Another Department to illustrate the use in papers from authors
+%             with different affiliations
+       }
+
+% ------------------------------------------------------------------------
 \maketitle
 
 \section{Introduction And Motivation}
@@ -119,7 +137,17 @@ The Storytelling literature can be divided into various categories: scientific v
 \item Scientific Visualization vs Information Visualization: Scientific visualization is seen by a user primarily relates to a physical phenomena occurring in nature, such as flow, volume and surface visualization. While information visualization is more concerned with abstract data with no inherent spatial geometry \cite{spence2007}.
 \item Static vs Dynamic: Static visualization requires no action from the user and the encoded data is immediately available. While dynamic visualization refers to those representations that go beyond traditional static which includes animation, interaction and real-time display \cite{spence2007}.
 \item Visualization Goals: This includes exploration, analysis and presentation. Exploration refers to navigation and browsing undertaken solely with the aim of forming a mental model of part or all of an information space \cite{spence2007}. Analysis refers to a systematic examination and evaluation of data or information by breaking it into its component parts to uncover their interrelationships. And presentation refers to the selection of encoded data and its layout on a display \cite{spence2007}.
-
+\end{enumerate}
+\subsection{Scope}
+The storytelling visualization papers summarised in this survey include scientific visualization, information visualization and Geo-spatial visualization. Storytelling visualization papers from other fields are not included, such as
+\begin{enumerate}
+\item[$\bullet$] Virtual reality 
+\item[$\bullet$] Augmented reality
+\item[$\bullet$] Education
+\item[$\bullet$] Gaming
+\item[$\bullet$] Multi-media
+\item[$\bullet$] Language processing
+\item[$\bullet$] Image-processing
 \end{enumerate}
 \section{Authorship}
 Authorship refers to writing or creating a book, article, or document or the creator of a work of art according to The Oxford English dictionary\cite{authoship2} and origin, especially with reference to an author, creator or producer \cite{authoship1}. For our purposes, we will adopt a definition of author described by Rodgers\cite{rodgers2011} "An author is best described as an individual solely responsible for the creation of a unique body of work."  Hullman \cite{hullman2013deeper} et al. state, "Story creation involves sequential processes of context definition, information selection, modality selection, and choosing an order to effectively convey the intended narrative".
@@ -385,7 +413,7 @@ indicators. The analyst can here use the scatter matrix as an overview and then 
 \endgroup
 
 
-\section{Narrative}
+\section{Visualization and storytelling more descriptive}
 Narrative structures include events and visualization of characters. An example narrative can be a simple interface that straightforwardly presents trends in keywords over time \cite{fisher}. Narrative visuals contain the transition between events. It involves "using a tool to visually analyze data, and to generate visualizations via vector graphics or images for presentation" and decide "how to thread the representations into a compelling yet understandable sequence"\cite{hullman2013deeper}. Plowman \cite{plowman1999,eccles2007} reports that a narrative specifically refers to the macro-structure of a document in contrast to the term story which refers to both structure and content. This structuring of evidence, combined with the choice of appropriate rhetorical strategies, is referred to as "the art of storytelling" among literary scholars. Research in narrative visualization points to visualization features that afford storytelling including guided emphasis and structures for reader-driven storytelling. It also includes the principles that govern effective structuring of transitions
 between consecutive visualizations in narrative presentations, and how different tactics for sequencing visualizations are combined into global strategies in formats like slideshow presentations.
 
@@ -400,18 +428,18 @@ narrative guidance and can be a combination of features specific to interactive 
 
 Plowman has developed three versions of Galapagos as a research tool, based on extended observation of students using commercially available CD-ROMs in schools \cite{plowman1999}.
 \begin{enumerate}
-\item The linear version is designed in such a way that :students are led through the eight sections of the CD-ROM in sequence and it is closest to a traditional narrative as presented in educational television.  The linear version presents a high degree of narrative guidance and little opportunity for learners to decide their own narrative path so they have relatively little control.
+\item The linear version is designed in such a way that students are led through the eight sections of the CD-ROM in sequence and it is closest to a traditional narrative as presented in educational television.  The linear version presents a high degree of narrative guidance and little opportunity for learners to decide their own narrative path so they have relatively little control.
 \item The resource-based version offers no guidance through the CD-ROM sections and leaves students to define their own route. There is very
 little narrative guidance offered and learners have to construct a narrative by making decisions about sequence, so there is a high degree of user control and heavy use of the menu to decide the route. 
-\item The guided discovery (GDL) version offers guidance in breaking down the task by providing paths through the material, questions to stimulate enquiries, and direction to specific resources. The GDL version was designed to offer a balance between narrative guidance and support for narrative construction and this is reflected in a more even balance between user and system control: learners are able to determine sequence and their course of action but are offered guidance in doing so. 
+\item The guided discovery (GDL) version offers guidance in breaking down the task by providing paths through the material, questions to stimulate enquiries, and direction to specific resources. The GDL version was designed to offer a balance between narrative guidance and support for narrative construction and this is reflected in a more even balance between user and system control. Learners are able to determine sequence and their course of action but are offered guidance in doing so. 
 
 \end{enumerate}
 \end{enumerate}
 
-All papers in this section develop methods or structure on how to improve storytelling visualization. Viegas \cite{viegas2004} presents method for improving data memorability. Fisher \cite{fisher} present ways for tracking narrative events over time. Segal and Heer \cite{segal} investigate the design of narrative visualizations and identify techniques for telling stories with data. Hullman \cite{hullman,hullman2013,hullman2013deeper}
+All papers in this section develop methods or structure on how to improve narrative storytelling visualization. Viegas \cite{viegas2004} presents method for improving data memorability. Fisher \cite{fisher} present ways for tracking narrative events over time. Segal and Heer \cite{segal} investigate the design of narrative visualizations and identify techniques for telling stories with data. Hullman \cite{hullman,hullman2013,hullman2013deeper}
 design the structure of a visualization to present storytelling.  Figueiras \cite{figueiras,figueiras2014tell} studies how to incorporate narrative elements as storytelling elements.
 
-\subsection{Information Visualization}
+\subsection{Narrative Information Visualization}
 
 \textbf{Title:} \textit{Digital artifacts for remembering and storytelling: Posthistory and social network fragments}
 \begin{enumerate}
@@ -888,18 +916,18 @@ right along the time-axis, that converge and diverge in the course of their path
 
 
 \section{Memorability}
-Memory refers to the faculty by which things are remembered; the capacity for retaining, perpetuating, or reviving the thought of things past according to The Oxford English Dictionary \cite{memory} .Memorability is an important goal of storytelling. A good visualization technique will draw the viewer's attention and increase a story's memorability \cite{bateman}.
+Memory refers to the faculty by which things are remembered; the capacity for retaining, perpetuating, or reviving the thought of things past according to The Oxford English Dictionary \cite{memory}. Memorability is an important goal of storytelling. A good visualization technique will draw the viewer's attention and increase a story's memorability \cite{bateman}.
 
 \textbf{Title:} \textit{What Makes a Visualization Memorable?}
 \begin{enumerate}
 \item \textit{Definition:} 
-\item \textit{The Concept:} Borkin et al\cite{borkin2013makes} built an online memorability study over 2000 static visualization that covers the large variety of visualizations, and determine which visualization types and attributes are more memorable. It  opens a new domain of investigation at the interface between human cognition and visualization design.
+\item \textit{The Concept:} Borkin et al\cite{borkin2013makes} develop an online memorability study over 2000 static visualizations that cover the large variety of visualizations and determine which visualization types and attributes are more memorable. They investigate a domain at the interface between human cognition and visualization design.
 \item \textit{Case Study:} 
 \begin{enumerate}
-\item Visualization taxonomy: The taxonomy classifies static visualizations according to the underlying data structures, the visual encoding of the data, and the perceptual tasks enabled by these encodings. It contains twelve main visualization categories and several popular sub-types for each category.
-\item Memorability experiment: Borkin et al run memorability test via Amazon’s Mechanical Turk with 261 participants and gather memorability score.
+\item Visualization taxonomy: The taxonomy classifies static visualizations according to the underlying data structures, the visual encoding of the data, and the perceptual tasks enabled by these encodings. It features twelve main visualization categories and several popular sub-types for each category.
+\item Memorability experiment: Borkin et al run memorability test via Amazon's Mechanical Turk with 261 participants and gather memorability scores.
 \item Experiment result: The result in memorability comparison test demonstrates that there is memorability consistency with scenes, faces, and also visualizations, thus memorability is a generic principle with possibly similar generic, abstract, features. And the result in visualization attribute test illustrates that higher memorability scores were correlated with visualizations containing pictograms, more color, low data-to-ink ratios, and high visual densities.
-\item Conclusion: Borkin et al show that visualizations are intrinsically memorable with consistency across people. visualizations with low data-to-ink ratios and high visual densities (i.e., more chart junk and "clutter") were more memorable than minimal, "clean" visualizations \cite{borkin2013makes}. 
+\item Conclusion: Borkin et al show that visualizations are intrinsically memorable with consistency across people. Visualizations with low data-to-ink ratios and high visual densities (i.e., more chart junk and "clutter") were more memorable than minimal, "clean" visualizations \cite{borkin2013makes}. 
 
 \end{enumerate}
 \end{enumerate}
@@ -908,7 +936,7 @@ Memory refers to the faculty by which things are remembered; the capacity for re
 All papers in this section evaluate the effects of visualization on memorability. Bateman et al \cite{bateman} explore the effects of embellishment on comprehension and memorability. And Saket et al \cite{saket2015} illustrate that map-based visualization can improve accuracy of recall data comparing with node-link visualization.
 
 
-\subsection{Information Visualization}
+\subsection{Storytelling In Information Visualization And Memorability}
 \textbf{Title:} \textit{Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts}
 \begin{enumerate}
 \item \textit{Definition:} 
@@ -931,7 +959,7 @@ but after a long-term gap, recall of both topic and detail of chart(categories a
 \captionof{figure}{\textit{This graphic compares two different levels of graphical embellishment of the same data. The top graph is an embellished image but still retains the recognisable features of a bar chart. The bottom image replaces the bars with a silhouette of a person next to a drink where the height of the drink corresponds to the height of the original bar. This method also uses the addition of colour to emphasise the data \cite{bateman}.}}\label{fig:Bateman2010Effects}
 \endgroup
 
-\subsection{Geo-spatial Visualization}
+\subsection{Storytelling In Geo-spatial Visualization And Memorability}
 \textbf{Title:} \textit{Map-based Visualizations Increase Recall Accuracy of Data}
 \begin{enumerate}
 \item \textit{Definition:}  

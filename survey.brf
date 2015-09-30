@@ -11,7 +11,7 @@
 \backcite {authoship1}{{1}{1.2}{subsection.1.2}}
 \backcite {rodgers2011}{{1}{1.2}{subsection.1.2}}
 \backcite {hullman2013deeper}{{1}{1.2}{subsection.1.2}}
-\backcite {bateman}{{1}{1.2}{subsection.1.2}}
+\backcite {bateman}{{2}{1.2}{subsection.1.2}}
 \backcite {spence2007}{{2}{1.}{Item.1}}
 \backcite {spence2007}{{2}{2.}{Item.2}}
 \backcite {spence2007}{{2}{3.}{Item.3}}
@@ -29,7 +29,6 @@
 \backcite {lee2013}{{2}{2}{Item.8}}
 \backcite {plowman1999}{{2}{2}{Item.8}}
 \backcite {wohlfat}{{2}{1.}{Item.9}}
-\backcite {wohlfat}{{2}{2.}{Item.10}}
 \backcite {wohlfat}{{3}{1}{table.1}}
 \backcite {wohlfart2}{{3}{1}{table.1}}
 \backcite {Gershon2}{{3}{1}{table.1}}
@@ -60,6 +59,7 @@
 \backcite {saket2015}{{3}{1}{table.1}}
 \backcite {sci}{{3}{1}{table.1}}
 \backcite {Kosara}{{3}{1}{table.1}}
+\backcite {wohlfat}{{3}{2.}{Item.10}}
 \backcite {wohlfat}{{3}{3.a.}{Item.12}}
 \backcite {wohlfat}{{3}{3.b.}{Item.13}}
 \backcite {wohlfat}{{3}{3.c.}{Item.14}}
