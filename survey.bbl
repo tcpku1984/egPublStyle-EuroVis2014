@@ -12,6 +12,12 @@
 \newblock {Aniviz: A Template-based Animation Tool for Volume Visualization}.
 \newblock \emph{Computer Graphics and Applications, IEEE 30}, 5 (2010), 61--71.
 
+\bibitem[AZ13]{alavesa2013combining}
+\textsc{Alavesa P., Zanni D.}:
+\newblock Combining storytelling tradition and pervasive gaming.
+\newblock In \emph{Games and Virtual Worlds for Serious Applications
+  (VS-GAMES), 2013 5th International Conference on} (2013), IEEE, pp.~1--4.
+
 \bibitem[BB79]{black1979}
 \textsc{Black J.~B., Bower G.~H.}:
 \newblock Episodes as chunks in narrative memory.
@@ -80,6 +86,13 @@
 \newblock In \emph{Visualization, 2005. VIS 05. IEEE} (2005), IEEE,
   pp.~191--198.
 
+\bibitem[CLM15]{cropper2015scientific}
+\textsc{Cropper A., Luna R.~E., Mclean E.~L.}:
+\newblock Scientific storytelling: From up in the clouds to down to earth… a
+  new approach to mentoring.
+\newblock In \emph{Integrated STEM Education Conference (ISEC), 2015 IEEE}
+  (2015), IEEE, pp.~252--257.
+
 \bibitem[CM11]{cruz2011}
 \textsc{Cruz P., Machado P.}:
 \newblock Generative storytelling for information visualization.
@@ -97,19 +110,6 @@
 \newblock {Dataset Traversal with Motion-controlled Transfer Functions}.
 \newblock In \emph{Visualization, 2005. VIS 05. IEEE} (2005), IEEE,
   pp.~359--366.
-
-\bibitem[CW12]{chu2012}
-\textsc{Chu W.-T., Wang H.-H.}:
-\newblock Enabling portable animation browsing by transforming animations into
-  comics.
-\newblock In \emph{Proceedings of the 2nd ACM international workshop on
-  Interactive multimedia on mobile and portable devices} (2012), ACM, pp.~3--8.
-
-\bibitem[CY13]{chu2013optimized}
-\textsc{Chu W.-T., Yu C.-H.}:
-\newblock Optimized speech balloon placement for automatic comics generation.
-\newblock In \emph{Proceedings of the 3rd ACM international workshop on
-  Interactive multimedia on mobile \& portable devices} (2013), ACM, pp.~1--6.
 
 \bibitem[CYW15]{chu2015}
 \textsc{Chu W.-T., Yu C.-H., Wang H.-H.}:
@@ -478,6 +478,12 @@
   Edition)}}.
 \newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 2007.
 
+\bibitem[SSF14]{santiago2014mogre}
+\textsc{Santiago A.~D., Sampaio P.~N., Fernandes L.~R.}:
+\newblock Mogre-storytelling: Interactive creation of 3d stories.
+\newblock In \emph{Virtual and Augmented Reality (SVR), 2014 XVI Symposium on}
+  (2014), IEEE, pp.~190--199.
+
 \bibitem[SSKB15]{saket2015}
 \textsc{Saket B., Scheidegger C., Kobourov S.~G., B{\"o}rner K.}:
 \newblock Map-based visualizations increase recall accuracy of data.
@@ -503,6 +509,12 @@
 \newblock {Animation: Can It Facilitate?}
 \newblock \emph{International journal of human-computer studies 57}, 4 (2002),
   247--262.
+
+\bibitem[TMHO06]{theune2006generating}
+\textsc{Theune M., Meijs K., Heylen D., Ordelman R.}:
+\newblock Generating expressive speech for storytelling applications.
+\newblock \emph{Audio, Speech, and Language Processing, IEEE Transactions on
+  14}, 4 (2006), 1137--1144.
 
 \bibitem[Tuf90]{Tufte}
 \textsc{Tufte E.}:
