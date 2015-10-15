@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  15 OCT 2015 10:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.16)  15 OCT 2015 13:45
 entering extended mode
 **survey.tex
 (H:\storytelling\egPublStyle-EuroVis2014\survey.tex
@@ -627,7 +627,7 @@ l.152
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-<./images/VRVis-Wohlfart-Michael.png, id=227, 411.939pt x 344.487pt>
+<./images/VRVis-Wohlfart-Michael.png, id=223, 411.939pt x 344.487pt>
 File: ./images/VRVis-Wohlfart-Michael.png Graphic file (type png)
 
 <use ./images/VRVis-Wohlfart-Michael.png>
@@ -635,7 +635,7 @@ Package pdftex.def Info: ./images/VRVis-Wohlfart-Michael.png used on input line
  192.
 (pdftex.def)             Requested size: 170.71652pt x 142.75969pt.
 
-<./images/wohlfart07storyTelling.png, id=239, 487.06969pt x 578.91281pt>
+<./images/wohlfart07storyTelling.png, id=235, 487.06969pt x 578.91281pt>
 File: ./images/wohlfart07storyTelling.png Graphic file (type png)
 
 <use ./images/wohlfart07storyTelling.png>
@@ -661,7 +661,7 @@ l.231 \item \textit
                    {Definition:} Gershon and Page state that: storytelling e...
  <H:/storytelling/egPublStyle-EuroVis2014/images/VRVis-Wohlfart-Michael.png> <H
 :/storytelling/egPublStyle-EuroVis2014/images/wohlfart07storyTelling.png>]
-<./images/cruz2011.jpg, id=273, 660.21657pt x 625.58719pt>
+<./images/cruz2011.jpg, id=269, 660.21657pt x 625.58719pt>
 File: ./images/cruz2011.jpg Graphic file (type jpg)
 
 <use ./images/cruz2011.jpg>
@@ -707,7 +707,7 @@ Underfull \hbox (badness 1253) in paragraph at lines 289--290
 \T1/ptm/m/n/9 soft-ware his-tory. Code-book, a con-cept pre-sented by
  []
 
-<./images/kuhn2012.png, id=317, 205.9695pt x 454.0965pt>
+<./images/kuhn2012.png, id=313, 205.9695pt x 454.0965pt>
 File: ./images/kuhn2012.png Graphic file (type png)
 
 <use ./images/kuhn2012.png>
@@ -724,7 +724,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 l.311 \item S
              ketchstory Interaction: The presenter draws an example icon the...
  <H:/storytelling/egPublStyle-EuroVis2014/images/kuhn2012.png>]
-<./images/lee2013.jpg, id=341, 969.6225pt x 295.1025pt>
+<./images/lee2013.jpg, id=337, 969.6225pt x 295.1025pt>
 File: ./images/lee2013.jpg Graphic file (type jpg)
 
 <use ./images/lee2013.jpg>
@@ -735,7 +735,7 @@ Overfull \hbox (11.62204pt too wide) in paragraph at lines 323--324
  [] 
  []
 
-<./images/eccles2007.png, id=348, 880.03781pt x 673.01437pt>
+<./images/eccles2007.png, id=344, 880.03781pt x 673.01437pt>
 File: ./images/eccles2007.png Graphic file (type png)
 
 <use ./images/eccles2007.png>
@@ -770,7 +770,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 373--374
 ous
  []
 
-<./images/Lidal12Geological.png, id=382, 872.50969pt x 542.025pt>
+<./images/Lidal12Geological.png, id=378, 872.50969pt x 542.025pt>
 File: ./images/Lidal12Geological.png Graphic file (type png)
 
 <use ./images/Lidal12Geological.png>
@@ -783,7 +783,7 @@ Underfull \hbox (badness 6944) in paragraph at lines 387--389
 ng Us-ing
  []
 
-<./images/lun2013.jpg, id=393, 655.69969pt x 368.87813pt>
+<./images/lun2013.jpg, id=389, 655.69969pt x 368.87813pt>
 File: ./images/lun2013.jpg Graphic file (type jpg)
 
 <use ./images/lun2013.jpg>
@@ -825,7 +825,7 @@ Underfull \hbox (badness 1248) in paragraph at lines 456--457
 \T1/ptm/m/n/9 can be ei-ther di-rectly be-tween cor-re-spon-dents or
  []
 
-<./images/viegas2004.png, id=459, 599.99156pt x 485.56406pt>
+<./images/viegas2004.png, id=455, 599.99156pt x 485.56406pt>
 File: ./images/viegas2004.png Graphic file (type png)
 
 <use ./images/viegas2004.png>
@@ -868,7 +868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 481--484
 l.491 \item I
              nformation visualization/Narrative <H:/storytelling/egPublStyle-Eu
 roVis2014/images/viegas2004.png>]
-<./images/akashi.jpg, id=489, 557.83406pt x 358.33875pt>
+<./images/akashi.jpg, id=485, 557.83406pt x 358.33875pt>
 File: ./images/akashi.jpg Graphic file (type jpg)
 
 <use ./images/akashi.jpg>
@@ -879,7 +879,7 @@ Overfull \hbox (11.62204pt too wide) in paragraph at lines 497--498
  [][] 
  []
 
-<./images/fisher.jpg, id=501, 492.33937pt x 227.34938pt>
+<./images/fisher.jpg, id=497, 492.33937pt x 227.34938pt>
 File: ./images/fisher.jpg Graphic file (type jpg)
 
 <use ./images/fisher.jpg>
@@ -915,7 +915,7 @@ Underfull \hbox (badness 4686) in paragraph at lines 536--537
 []\T1/ptm/m/n/9 Minnesota Em-ploy-ment Ex-plorer: This ex-am-ple
  []
 
-<./images/segelheer.png, id=545, 1970.86313pt x 855.94781pt>
+<./images/segelheer.png, id=541, 1970.86313pt x 855.94781pt>
 File: ./images/segelheer.png Graphic file (type png)
 
 <use ./images/segelheer.png>
@@ -931,7 +931,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--570
 []\T1/ptm/m/n/9 line charts, maps, ge-o-graphic in-for-ma-tion
  []
 
-<./images/vis_rhetoric.png, id=555, 709.14937pt x 1193.96063pt>
+<./images/vis_rhetoric.png, id=551, 709.14937pt x 1193.96063pt>
 File: ./images/vis_rhetoric.png Graphic file (type png)
 
 <use ./images/vis_rhetoric.png>
@@ -957,7 +957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 595--596
 []\T1/ptm/m/n/9 Time-series graph, line chart, bar chart, his-
  []
 
-<./images/hullman2013.jpg, id=590, 529.22719pt x 331.2375pt>
+<./images/hullman2013.jpg, id=586, 529.22719pt x 331.2375pt>
 File: ./images/hullman2013.jpg Graphic file (type jpg)
 
 <use ./images/hullman2013.jpg>
@@ -988,7 +988,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 616--617
 \T1/ptm/m/n/9 lo-cal tran-si-tion costs to de-ter-mine the best path
  []
 
-<./images/hullman2013deeper.jpg, id=619, 591.71063pt x 387.69844pt>
+<./images/hullman2013deeper.jpg, id=615, 591.71063pt x 387.69844pt>
 File: ./images/hullman2013deeper.jpg Graphic file (type jpg)
 
 <use ./images/hullman2013deeper.jpg>
@@ -1000,7 +1000,7 @@ Overfull \hbox (11.62204pt too wide) in paragraph at lines 628--629
  [][] 
  []
 
-<./images/figueiras14narrative.png, id=635, 1080.28593pt x 722.7pt>
+<./images/figueiras14narrative.png, id=631, 1080.28593pt x 722.7pt>
 File: ./images/figueiras14narrative.png Graphic file (type png)
 
 <use ./images/figueiras14narrative.png>
@@ -1022,7 +1022,7 @@ Underfull \hbox (badness 2635) in paragraph at lines 684--685
 []\T1/ptm/m/n/9 Map, Poster, Pho-tog-ra-phy, Tag Cloud, Draw-ing,
  []
 
-<./images/fig2014.jpg, id=671, 880.79062pt x 395.97937pt>
+<./images/fig2014.jpg, id=667, 880.79062pt x 395.97937pt>
 File: ./images/fig2014.jpg Graphic file (type jpg)
 
 <use ./images/fig2014.jpg>
@@ -1052,14 +1052,14 @@ l.712 \item A
              lternative multi-dimensional trend visualization: A trace visua...
  <H:/storytelling/egPublStyle-EuroVis2014/images/figueiras14narrative.png> <H:/
 storytelling/egPublStyle-EuroVis2014/images/fig2014.jpg>]
-<./images/Robertson.png, id=707, 1044.90375pt x 793.46437pt>
+<./images/Robertson.png, id=703, 1044.90375pt x 793.46437pt>
 File: ./images/Robertson.png Graphic file (type png)
 
 <use ./images/Robertson.png>
 Package pdftex.def Info: ./images/Robertson.png used on input line 725.
 (pdftex.def)             Requested size: 199.16928pt x 151.23198pt.
 
-<./images/Tanahashi2012.png, id=717, 1169.87062pt x 432.11438pt>
+<./images/Tanahashi2012.png, id=713, 1169.87062pt x 432.11438pt>
 File: ./images/Tanahashi2012.png Graphic file (type png)
 
 <use ./images/Tanahashi2012.png>
@@ -1095,14 +1095,14 @@ r (name{figure.19}) has been already used, duplicate ignored
 l.765 \end{enumerate}
                       <H:/storytelling/egPublStyle-EuroVis2014/images/Robertson
 .png> <H:/storytelling/egPublStyle-EuroVis2014/images/Tanahashi2012.png>]
-<./images/Liu2013Story.png, id=758, 1342.2647pt x 584.1825pt>
+<./images/Liu2013Story.png, id=754, 1342.2647pt x 584.1825pt>
 File: ./images/Liu2013Story.png Graphic file (type png)
 
 <use ./images/Liu2013Story.png>
 Package pdftex.def Info: ./images/Liu2013Story.png used on input line 778.
 (pdftex.def)             Requested size: 199.16928pt x 86.67871pt.
 
-<./images/ferreira2013.png, id=768, 370.38374pt x 351.714pt>
+<./images/ferreira2013.png, id=764, 370.38374pt x 351.714pt>
 File: ./images/ferreira2013.png Graphic file (type png)
 
 <use ./images/ferreira2013.png>
@@ -1134,7 +1134,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 847--848
 []\T1/ptm/m/n/9 illustrative vol-ume ren-der-ing, static and an-i-mated
  []
 
-<./images/AniVis.png, id=814, 381.67593pt x 289.83281pt>
+<./images/AniVis.png, id=810, 381.67593pt x 289.83281pt>
 File: ./images/AniVis.png Graphic file (type png)
 
 <use ./images/AniVis.png>
@@ -1160,7 +1160,7 @@ Underfull \hbox (badness 1297) in paragraph at lines 866--867
 \T1/ptm/m/n/9 from sin-gle in-between frame to sev-eral in-between
  []
 
-<./images/bederson99does.png, id=847, 446.26724pt x 325.215pt>
+<./images/bederson99does.png, id=843, 446.26724pt x 325.215pt>
 File: ./images/bederson99does.png Graphic file (type png)
 
 <use ./images/bederson99does.png>
@@ -1171,7 +1171,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 892--893
 []\T1/ptm/m/n/9 Statistically sig-nif-i-cant dif-fer-ences in user pref-er-
  []
 
-<./images/AnimatedTransitions.png, id=853, 1073.51062pt x 300.3722pt>
+<./images/AnimatedTransitions.png, id=849, 1073.51062pt x 300.3722pt>
 File: ./images/AnimatedTransitions.png Graphic file (type png)
 
 <use ./images/AnimatedTransitions.png>
@@ -1204,7 +1204,7 @@ Underfull \hbox (badness 2495) in paragraph at lines 920--921
 []\T1/ptm/m/n/9 Visualization tax-on-omy: The tax-on-omy clas-si-fies
  []
 
-<./images/Bateman2010Effects.png, id=894, 420.06938pt x 637.63219pt>
+<./images/Bateman2010Effects.png, id=890, 420.06938pt x 637.63219pt>
 File: ./images/Bateman2010Effects.png Graphic file (type png)
 
 <use ./images/Bateman2010Effects.png>
@@ -1215,7 +1215,7 @@ Package pdftex.def Info: ./images/Bateman2010Effects.png used on input line 951
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-<./images/saket2015.jpg, id=927, 379.4175pt x 423.08063pt>
+<./images/saket2015.jpg, id=923, 379.4175pt x 423.08063pt>
 File: ./images/saket2015.jpg Graphic file (type jpg)
 
 <use ./images/saket2015.jpg>
@@ -1247,7 +1247,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 991--992
  []
 
 
-<./images/Scientific_Storytelling_CGA.png, id=959, 663.22781pt x 1018.55531pt>
+<./images/Scientific_Storytelling_CGA.png, id=955, 663.22781pt x 1018.55531pt>
 File: ./images/Scientific_Storytelling_CGA.png Graphic file (type png)
 
 <use ./images/Scientific_Storytelling_CGA.png>
@@ -1271,7 +1271,7 @@ l.1018 \item N
               ew York Times, Copenhagen: \textit{The New York Times} visuali...
  <H:/storytelling/egPublStyle-EuroVis2014/images/Scientific_Storytelling_CGA.pn
 g>]
-<./images/StorytellingTheNextStepForVisualisation.png, id=989, 1434.86063pt x 6
+<./images/StorytellingTheNextStepForVisualisation.png, id=984, 1434.86063pt x 6
 94.84593pt>
 File: ./images/StorytellingTheNextStepForVisualisation.png Graphic file (type p
 ng)
@@ -1528,43 +1528,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1055.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1055.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1055.
 
-
-
-Package rerunfilecheck Warning: File `survey.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `survey.brf':
-(rerunfilecheck)             Before: A4D611CFBB8E0FD3F537EF0AF5E3BB55;11551
-(rerunfilecheck)             After:  8245A430291FA54B2A47E3F7B63B53E0;11551.
+Package rerunfilecheck Info: File `survey.brf' has not changed.
+(rerunfilecheck)             Checksum: 8245A430291FA54B2A47E3F7B63B53E0;11551.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1055.
  ) 
 Here is how much of TeX's memory you used:
- 14959 strings out of 493921
- 263540 string characters out of 3147291
+ 14956 strings out of 493921
+ 263503 string characters out of 3147291
  345060 words of memory out of 3000000
  17441 multiletter control sequences out of 15000+200000
  49735 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,12n,55p,1134b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.8.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.8.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on survey.pdf (28 pages, 11369640 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on survey.pdf (28 pages, 11369029 bytes).
 PDF statistics:
- 1390 PDF objects out of 1440 (max. 8388607)
- 509 named destinations out of 1000 (max. 500000)
+ 1385 PDF objects out of 1440 (max. 8388607)
+ 506 named destinations out of 1000 (max. 500000)
  153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
