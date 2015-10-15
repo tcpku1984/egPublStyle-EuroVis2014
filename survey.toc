@@ -15,11 +15,11 @@
 \contentsline {section}{\numberline {5}Animated Transition}{19}{section.5}
 \contentsline {subsection}{\numberline {5.1}Scientific Visualization}{20}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Information Visualization}{21}{subsection.5.2}
-\contentsline {section}{\numberline {6}Memorability}{22}{section.6}
+\contentsline {section}{\numberline {6}Memorability}{21}{section.6}
 \contentsline {subsection}{\numberline {6.1}Storytelling In Information Visualization And Memorability}{22}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Storytelling In Geo-spatial Visualization And Memorability}{23}{subsection.6.2}
-\contentsline {section}{\numberline {7}interpretation}{23}{section.7}
-\contentsline {subsection}{\numberline {7.1}Scientific Visualization}{23}{subsection.7.1}
+\contentsline {section}{\numberline {7}Interpretation}{23}{section.7}
+\contentsline {subsection}{\numberline {7.1}Scientific Visualization}{24}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}Information Visualization}{24}{subsection.7.2}
-\contentsline {section}{\numberline {8}summary}{25}{section.8}
+\contentsline {section}{\numberline {8}Summary}{25}{section.8}
 \contentsline {section}{References}{26}{section.8}
