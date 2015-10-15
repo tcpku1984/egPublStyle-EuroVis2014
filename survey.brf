@@ -225,7 +225,11 @@
 \backcite {Akiba}{{20}{4.b.}{Item.259}}
 \backcite {childs}{{20}{5.}{Item.260}}
 \backcite {correa}{{20}{5.}{Item.260}}
+<<<<<<< HEAD
 \backcite {Akiba}{{20}{22}{figure.22}}
+=======
+\backcite {Akiba}{{21}{22}{figure.22}}
+>>>>>>> origin/master
 \backcite {bedrson}{{21}{2.}{Item.265}}
 \backcite {gonzalez}{{21}{4.}{Item.267}}
 \backcite {donskoy}{{21}{4.}{Item.267}}
@@ -250,10 +254,14 @@
 \backcite {bateman}{{23}{4.}{Item.301}}
 \backcite {isola2011}{{23}{4.}{Item.301}}
 \backcite {saket2015}{{23}{26}{figure.26}}
+<<<<<<< HEAD
 \backcite {Interpretation}{{23}{7}{section.7}}
 \backcite {fowler2003ancient}{{23}{7}{section.7}}
 \backcite {jarret2006storytelling}{{23}{7}{section.7}}
 \backcite {sci}{{24}{1.}{Item.305}}
+=======
+\backcite {sci}{{23}{1.}{Item.305}}
+>>>>>>> origin/master
 \backcite {nasa}{{24}{3.a.}{Item.308}}
 \backcite {svs1}{{24}{3.a.}{Item.308}}
 \backcite {sci}{{24}{3.b.}{Item.309}}
