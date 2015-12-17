@@ -3,7 +3,7 @@
 \contentsline {subsection}{\numberline {1.2}Challenges in Storytelling And Visualization}{3}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Classification of Literature}{3}{subsection.1.3}
 \contentsline {subsection}{\numberline {1.4}Survey Scope}{4}{subsection.1.4}
-\contentsline {section}{\numberline {2}Authorship for storytelling and visualization}{4}{section.2}
+\contentsline {section}{\numberline {2}Authorship for storytelling and visualization}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Authorship for Storytelling and Scientific Visualization}{5}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Authorship for Storytelling and Information Visualization}{7}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Authorship for Storytelling and Geo-spatial Visualization}{9}{subsection.2.3}
